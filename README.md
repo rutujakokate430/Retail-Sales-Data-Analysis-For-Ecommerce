@@ -5,8 +5,11 @@ PowerBI Published Project: https://app.powerbi.com/groups/me/reports/054cc499-02
 
 Project Screenshots:
 
-![image](https://github.com/rutujakokate430/Retail-Sales-Data-Analysis-For-Ecommerce/assets/111034043/89bd4de5-94e7-4c81-a0dc-adb8a01e8436)
+
+![image](https://github.com/rutujakokate430/Retail-Sales-Data-Analysis-For-Ecommerce/assets/111034043/95176df1-eadf-463e-9ae2-d9d47ff43f56)
 
 
-![image](https://github.com/rutujakokate430/Retail-Sales-Data-Analysis-For-Ecommerce/assets/111034043/a7b929e0-d0dc-4cda-9add-6e556bc0c48a)
+
+![image](https://github.com/rutujakokate430/Retail-Sales-Data-Analysis-For-Ecommerce/assets/111034043/210c8ee5-6337-4f2f-8d2d-30f8e96e097c)
+
 
